@@ -1,7 +1,7 @@
 # Lat-UO.github.io
 Main Github page for CIT Minor
 
-P1
+[P1](https://lat-uo.github.io/cit281-p1/)
 P2
 P3
 P4
